@@ -1,11 +1,25 @@
-# XFCE-Gruvbox
-My Gruvbox-Styled Dotfiles for XFCE
+# My XFCE Picom Dotfiles
 
+My picom dotfiles for XFCE, with blur and rounded corners
 
-# Installing XFCE, Picom and Plank
+# Install Picom:
 
 openSUSE:
 ```
-sudo zypper in xfce4-session xfce4-weather-plugin xfce4-appfinder plank picom
+sudo zypper in picom
+```
+Arch:
+```
+sudo pacman -S picom
 
 ```
+Debian:
+
+```
+sudo apt install picom
+```
+Ubuntu doesn't has it in the repositories, so go build it yourself
+
+# Install the dotfiles
+
+Clone this git repo:
