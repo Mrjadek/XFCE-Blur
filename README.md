@@ -1,6 +1,6 @@
-# My XFCE Picom Dotfiles
+# XFCE Picom Dotfiles
 
-My picom dotfiles for XFCE, with blur and rounded corners
+Picom dotfiles for XFCE, with blur and rounded corners
 
 # Install Picom:
 
