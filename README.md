@@ -28,7 +28,7 @@ git clone https://github.com/Mrjadek/XFCE-Blur.git
 ```
 cd Into it:
 ```
-cd XFCE-Blur/picom
+cd XFCE-Blur
 ```
 Copy the dotfiles:
 ```
